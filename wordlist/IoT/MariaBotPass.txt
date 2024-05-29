@@ -5,7 +5,7 @@
 #
 # Scan Maria Bot Weak Password list
 #
-666666:666666
+666666:66666
 888888:888888
 admin:admin
 admin:1234
